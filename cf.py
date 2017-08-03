@@ -94,4 +94,8 @@ if __name__ == '__main__':
     mf = MatrixFactorization(rating=R, dimension=2)
     nR = mf.run()
     print R
+<<<<<<< HEAD
     print nR
+=======
+    print nR
+>>>>>>> 4e79622a392568e52e2d6c02f6299959adfdd719
